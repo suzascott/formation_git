@@ -49,6 +49,7 @@ po/*~
 rsconnect/
 
 # Additional formats
+*.pdf
 *.html
 
 # Dossier data
